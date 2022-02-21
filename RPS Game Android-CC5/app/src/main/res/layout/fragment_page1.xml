@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.landing.Page1Fragment">
+
+    <ImageView
+        android:id="@+id/iv_first_page"
+        style="@style/landing_image"
+        android:contentDescription="@string/pemain_1"
+        tools:ignore="MissingConstraints"
+        tools:src="@tools:sample/avatars" />
+
+    <TextView
+        style="@style/landing_menu_text"
+        android:layout_marginTop="8dp"
+        android:text="@string/text_first_page"
+        app:layout_constraintEnd_toEndOf="@+id/iv_first_page"
+        app:layout_constraintStart_toStartOf="@+id/iv_first_page"
+        app:layout_constraintTop_toBottomOf="@+id/iv_first_page" />
+</androidx.constraintlayout.widget.ConstraintLayout>

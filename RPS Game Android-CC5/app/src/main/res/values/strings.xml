@@ -11,9 +11,9 @@
     <string name="text_first_page">Bermain suit melawan \n sesama pemain.</string>
     <string name="text_second_page">Bermain suit melawan \n komputer.</string>
     <string name="text_third_page">Tuliskan nama mu dibawah</string>
-    <string name="url_landing_page1">"https://raw.githubusercontent.com/rahmatsugiarto/asset-image-binar-cc5/master/landing-page1.png"</string>
-    <string name="url_landing_page2">"https://raw.githubusercontent.com/rahmatsugiarto/asset-image-binar-cc5/master/landing-page2.png"</string>
-    <string name="url_landing_page3">"https://raw.githubusercontent.com/rahmatsugiarto/asset-image-binar-cc5/master/landing-page3.png"</string>
+    <string name="url_landing_page1">"https://raw.githubusercontent.com/rahmatsugiarto/Game-Suit-AndroidApp/master/RPS%20Game%20Android-CC5/image/landing-page1.png"</string>
+    <string name="url_landing_page2">"https://raw.githubusercontent.com/rahmatsugiarto/Game-Suit-AndroidApp/master/RPS%20Game%20Android-CC5/image/landing-page2.png"</string>
+    <string name="url_landing_page3">"https://raw.githubusercontent.com/rahmatsugiarto/Game-Suit-AndroidApp/master/RPS%20Game%20Android-CC5/image/landing-page3.png"</string>
     <string name="max_char">Maksimal 7 karakter yaa :D</string>
     <string name="close">close</string>
     <string name="pilih_lawanmu">PILIH LAWANMU</string>

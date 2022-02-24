@@ -9,7 +9,7 @@ simple rock paper scissors game app using kotlin on android studio
 </p>
 
 # RPS Game Android-CC5
-development of the Android-CC4 RPS Game, this project uses:
+development of the Android-CC5 RPS Game, this project uses:
 - Permissions
 - Activity
 - Fragment
